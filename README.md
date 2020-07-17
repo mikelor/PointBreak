@@ -12,7 +12,11 @@ PointBreak will be a simple client that tracks points of interest, similar to ho
 ## Recent Presentations
 * [Xamarin Assemble - Brandon Minnik's Creating Xamarin.Forms in C#](https://codetraveler.io/assemble-csharp-ui/)
 
-## GeoLocation
+## Helpful Software for Inner Loop Development
+* [LiveSharp - Best hot-reload and live debugging for C# projects](https://www.livesharp.net/)
+
+## Project Packages
+### GeoLocation
 Since .Net Core 3, does not have a good geolocation class library (whereas .Net Framework has System.Devices.Location), I'm going to be leverage [Scott Shluer's](https://github.com/scottschluer/) [Geolocation](https://github.com/scottschluer/geolocation) library/nuget package.
 
 Time to go.
