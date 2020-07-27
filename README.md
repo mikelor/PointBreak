@@ -12,6 +12,7 @@ PointBreak will be a simple client that tracks points of interest, similar to ho
 
 ## Recent Presentations
 * [Xamarin Assemble - Brandon Minnik's Creating Xamarin.Forms in C#](https://codetraveler.io/assemble-csharp-ui/)
+* [2020-07-13 - Blazor + Xamarin Code Sharing / .Net Virtual User Group](https://www.youtube.com/watch?v=5P_rub2a4Eo&list=PL1rZQsJPBU2S4_ZjpE20DJcPT8okkXPja&index=2&t=4s)
 
 ## Helpful Software for Inner Loop Development
 * [LiveSharp - Best hot-reload and live debugging for C# projects](https://www.livesharp.net/)
