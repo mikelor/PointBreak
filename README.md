@@ -3,6 +3,7 @@ Point of Interest client app for learning Blazor Web Assembly. I won't be explor
 PointBreak will be a simple client that tracks points of interest, similar to how you can "Save" places on Google Maps. 
 
 ## Some Resources I'm Looking Into
+* [2020.09.09 - Working with Local Storage in a Blazor Progressive Web App](https://visualstudiomagazine.com/articles/2020/09/08/blazor-pwa-local-storage.aspx)
 * [2020.08.03 - Creating a Progressive Web App with Blazor WebAssembly](https://visualstudiomagazine.com/articles/2020/08/03/blazor-pwa.aspx)
 * [2020.05.13 - Building a progressive web app with Blazor](https://devblogs.microsoft.com/visualstudio/building-a-progressive-web-app-with-blazor/)
 * [What's behind the Blazor Hype](https://stackoverflow.blog/2020/02/26/whats-behind-the-hype-about-blazor/)
